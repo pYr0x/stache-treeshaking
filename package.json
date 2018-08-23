@@ -10,10 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "1.2.2",
-    "@fortawesome/free-brands-svg-icons": "5.1.1",
-    "@fortawesome/free-regular-svg-icons": "5.1.1",
-    "@fortawesome/free-solid-svg-icons": "5.1.1",
     "can-define": "^2.5.7",
     "done-autorender": "^2.1.2",
     "fs-extra": "^7.0.0",
